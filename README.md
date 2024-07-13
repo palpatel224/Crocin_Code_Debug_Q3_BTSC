@@ -1,4 +1,4 @@
-﻿# IE CODE DEBUG
+﻿# IE CODE DEBUG : Question 3
 
 # MAX POINTS : 100
 
@@ -64,6 +64,6 @@ Follow these steps to set up the project locally:
 - https://tailwindcss.com/docs/guides/vite
 
 ## Important: 
-* Fork the repository and update your edits in your forked copy.
+* Create a fork of the repository with the format: <Team Name_Code_Debug_Q3_BTSC>.
 * Ensure that you commit your changes before the deadline, otherwise it wont be considered.
 * Before submitting, check whether all your commits have been updated.
