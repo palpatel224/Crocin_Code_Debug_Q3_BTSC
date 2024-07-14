@@ -4,12 +4,19 @@ import useBlogs from "./hooks/useBlogs";
 // get all of the user blogs :)
 
 function App() {
-  const { createUser } = useBlogs();
+  const blogs = useBlogs();
 
   return (
     <div className="flex flex-col justify-center">
-      <div>createUser.body</div>
-      <div>createUser.title</div>
+      {blogs ? (
+        <div>
+          {blogs.map((element,index) => (
+            <div key={index}>{element.title}</div> 
+          ))}
+        </div>
+      ) : (
+        <div>Loading...</div>
+      )}
     </div>
   );
 }
