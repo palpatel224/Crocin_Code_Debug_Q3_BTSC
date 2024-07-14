@@ -67,3 +67,6 @@ Follow these steps to set up the project locally:
 * Create a fork of the repository with the format: <TeamName_Code_Debug_Q3_BTSC>.
 * Ensure that you commit your changes before the deadline, otherwise it will not be considered.
 * Before submitting, check whether all your commits have been updated.
+
+# ALL THE BEST👍
+
